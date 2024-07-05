@@ -72,3 +72,16 @@ A simple notes app built with Node.js and Yargs, featuring CRUD operations and a
   ```bash
   note clean
   ```
+### Troubleshooting
+
+- **Command Not Found**: If you encounter a `command not found` error when trying to run the `note` commands, ensure that you have properly installed the application and that your PATH environment variable includes the directory where the `note` command is located.
+
+
+### Feedback and Contributions
+
+  We welcome feedback and contributions to this project. If you have suggestions for improvements or encounter any issues, please open an issue on the project's GitHub repository. Contributions can be made in the form of pull requests.
+
+### Acknowledgements
+
+- Node.js Community: For providing an excellent platform for building command-line applications.
+- Contributors: A big thank you to everyone who has contributed to making this project better.
